@@ -17,7 +17,8 @@ public class CS4PhotonGarcia {
      */
     public static void main(String[] args) {
         // TODO code application logic here 
-       System.out.printIn("Bakit di ka mahal ng mama mo"); 
+       System.out.println("What if mahal ka lang pala ng nanay mo as a friend"); 
     }
     
 }
+
